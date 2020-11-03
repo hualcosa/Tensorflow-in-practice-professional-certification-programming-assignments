@@ -1,1 +1,1 @@
-# Tensorflow-in-practice-professional-certification-programming-assignments
+This repository contains the weekly programming assignments that I did while completing the certification.
